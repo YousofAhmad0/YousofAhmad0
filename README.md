@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/vector-line-web-concept-programming-linear-banner-learn-to-code-training-117236923.jpg)](https://rishavchanda.io)
+![cs](https://user-images.githubusercontent.com/104697889/189762467-aef5ccac-2d11-4777-b40d-27f78599707a.jpg)
 
 <h1 align="center">Hi 👋, I'm Yousof Ahmad</h1>
 <h3 align="center">An fresh graduated computer science student from Lebanese University.
