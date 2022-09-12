@@ -1,4 +1,4 @@
-![cs](https://user-images.githubusercontent.com/104697889/189762467-aef5ccac-2d11-4777-b40d-27f78599707a.jpg)
+[![MasterHead](https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-02/informatique.jpg?itok=yAnZaXqx)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Yousof Ahmad</h1>
 <h3 align="center">An fresh graduated computer science student from Lebanese University.
