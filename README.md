@@ -1,7 +1,7 @@
 [![MasterHead](https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-02/informatique.jpg?itok=yAnZaXqx)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Yousof Ahmad</h1>
-<h3 align="center">An fresh graduated computer science student from Lebanese University.
+<h3 align="center">An fresh graduated computer science student from Lebanese University.<br>
 Web Developer with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
