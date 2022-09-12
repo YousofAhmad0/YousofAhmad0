@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousof Ahmad</h1>
-<h3 align="center">Learning to code gave me problem-solving skills and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job.</h3>
+<h3 align="center">An fresh graduated computer science student from Lebanese University.
+Web Developer with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousofahmad0&label=Profile%20views&color=0e75b6&style=flat" alt="yousofahmad0" /> </p>
